@@ -16,4 +16,4 @@ python:
       
 formats:
   - pdf
-  - epub
+  # - epub maybe in the future
